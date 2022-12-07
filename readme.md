@@ -1,6 +1,6 @@
 # Current Version - 1.0
 
-[Live Site v.1]()
+[Live Site v.1](https://foodapp2.azurewebsites.net)
 
 ## FoodDatabase Project (Project 2)
 
